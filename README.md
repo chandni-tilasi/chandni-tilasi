@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jasveen18](https://github.com/jasveen18)
+- 👨‍💻 All of my projects are available at [https://github.com/chandni-tilasi](https://github.com/chandni-tilasi)
 
 - 💬 Ask me about **Frontend,Competitive Programming**
 
@@ -47,7 +47,7 @@
 
   <br/>
     <a href="https://github.com/chandni-tilasi/github-readme-stats"><img alt="chandni tilasi Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasveen18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/chandni-tilasi/github-readme-stats"><img alt="Jasveen Singh Kohli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasveen18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/chandni-tilasi/github-readme-stats"><img alt="chandni tilasi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasveen18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
 
@@ -55,7 +55,7 @@
 <br/>
 <br/> 
 
-<a href="https://github.com/jasveen18/github-readme-activity-graph"><img alt="Jasveen Singh Kohli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jasveen18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+<a href="https://github.com/chandni-tilasi/github-readme-activity-graph"><img alt="chandni tilasi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jasveen18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 <br/>
@@ -63,14 +63,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jasveen-singh-kohli-478456197/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Jasveen_18"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/jasveen18/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/chandni-tilasi-873073219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<a href = "https://www.instagram.com/chandni_tilasi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jasveen18">
+    <img src="https://komarev.com/ghpvc/?username=chandni-tilasi">
 </a>
-<a href="https://github.com/jasveen18?tab=followers"><img src="https://img.shields.io/github/followers/jasveen18?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/chandni-tilasi?tab=followers"><img src="https://img.shields.io/github/followers/chandni-tilasi?label=Followers&style=social" alt="GitHub Badge"></a>
